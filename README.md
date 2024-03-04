@@ -10,7 +10,7 @@
 
 **sample of datalog.txt**
 
-![Alt text](https://github.com/neonicX-Tech/Dataset-Compression/blob/main/Capture.PNG)
+![Alt text](https://github.com/neonicX-Tech/Dataset-Compression-Library/blob/main/Capture.PNG)
 
 
 *****
@@ -89,18 +89,18 @@ we have 4 images for 4 modes to example and show each image how to look after co
 
 | Image 1 | result of image  in    `Mod1_compression_pyramid` in                 layer 3  (122 * 57)   |
 |---------|--------------------------------------------------------------------------------------------|
-| ![IMG_4767](https://github.com/neonicX-Tech/Dataset-Compression/blob/main/input_path/IMG_4767.JPEG) | ![Result](https://github.com/neonicX-Tech/Dataset-Compression/blob/main/output_path/output_folder_1/IMG_4767.JPEG)|
+| ![IMG_4767](https://github.com/neonicX-Tech/Dataset-Compression-Library/blob/main/input_path/IMG_4767.JPEG) | ![Result](https://github.com/neonicX-Tech/Dataset-Compression-Library/blob/main/output_path/output_folder_1/IMG_4767.JPEG)|
 
 | Image 2 | result of image  in   `Mod2_compression_resize`  in                (170 * 170)    |
 |---------|-----------------------------------------------------------------------------------|
-| ![paris-street-musicians](https://github.com/neonicX-Tech/Dataset-Compression/blob/main/input_path/paris-street-musicians.jpg) |![paris-street-musicians](https://github.com/neonicX-Tech/Dataset-Compression/blob/main/output_path/output_folder_2/paris-street-musicians.jpg) |
+| ![paris-street-musicians](https://github.com/neonicX-Tech/Dataset-Compression-Library/blob/main/input_path/paris-street-musicians.jpg) |![paris-street-musicians](https://github.com/neonicX-Tech/Dataset-Compression-Library/blob/main/output_path/output_folder_2/paris-street-musicians.jpg) |
 
 
 
  
 | Image 3 | result of image in   'Mod3_compresion_quality' in              10    |
 |---------|----------------------------------------------------------------------|
-|![57940_370990626304408_407247883_n](https://github.com/neonicX-Tech/Dataset-Compression/blob/main/input_path/57940_370990626304408_407247883_n.jpg)|![[57940_370990626304408_407247883_n]](https://github.com/neonicX-Tech/Dataset-Compression/blob/main/output_path/output_folder_3/57940_370990626304408_407247883_n.jpg)|
+|![57940_370990626304408_407247883_n](https://github.com/neonicX-Tech/Dataset-Compression-Library/blob/main/input_path/57940_370990626304408_407247883_n.jpg)|![[57940_370990626304408_407247883_n]](https://github.com/neonicX-Tech/Dataset-Compression-Library/blob/main/output_path/output_folder_3/57940_370990626304408_407247883_n.jpg)|
 
 
 
@@ -108,7 +108,7 @@ we have 4 images for 4 modes to example and show each image how to look after co
 
 | Image 4 | result of image 1 in  'Mode4-compresion_crop` in                   (468 * 562) |
 |---------|--------------------------------------------------------------------------------| 
-|![1c45a63c47d89c6fd583c75b067b13d9](https://github.com/neonicX-Tech/Dataset-Compression/blob/main/input_path/1c45a63c47d89c6fd583c75b067b13d9.jpg)|![1c45a63c47d89c6fd583c75b067b13d9](https://github.com/neonicX-Tech/Dataset-Compression/blob/main/output_path/output_folder_4/1c45a63c47d89c6fd583c75b067b13d9.jpg)|
+|![1c45a63c47d89c6fd583c75b067b13d9](https://github.com/neonicX-Tech/Dataset-Compression-Library/blob/main/input_path/1c45a63c47d89c6fd583c75b067b13d9.jpg)|![1c45a63c47d89c6fd583c75b067b13d9](https://github.com/neonicX-Tech/Dataset-Compression-Library/blob/main/output_path/output_folder_4/1c45a63c47d89c6fd583c75b067b13d9.jpg)|
 
 
 ***
