@@ -290,7 +290,7 @@ Additionally:
 
 ## Contributing
 
-Contact us: contact (at) neonicx (dot) com.
+Contact our LinkedIn: [https://www.linkedin.com/company/neonicx/about/]
 
 ***
 ## License
