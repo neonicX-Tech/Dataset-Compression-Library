@@ -290,14 +290,18 @@ Additionally:
 
 ## Contributing
 
-Explain how people can contribute to your project. Include guidelines for pull requests and reporting issues.
+Contact us: contact (at) neonicx (dot) com.
 
 ***
 ## License
 
 [![License](https://img.shields.io/badge/License-GNU%20LGPL%20v2.1-blue.svg)](LICENSE)
 
+DATASET-COMPRESSION-LIBRARY is released under LGPL-2.1 license. 
+For the closed-source version of DATASET-COMPRESSION-LIBRARY or commercial purposes, please contact us: contact (at) neonicx (dot) com.
+
 ***
 ## About Us
 
-[Provide information about the team or individuals behind the project. Share your vision, mission, or goals.]
+At neonicX, We redefine innovation in digital system design and hardware development. Our journey covers engineering from A to Z, providing complex end-to-end development solutions with our full-stack team.​​​​​​​
+[https://www.linkedin.com/company/neonicx/about/]
